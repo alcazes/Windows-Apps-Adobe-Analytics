@@ -1,1 +1,0 @@
-c:\users\acazes\documents\visual studio 2013\Projects\UniversalAdobeAnalytics\UniversalAdobeAnalytics\UniversalAdobeAnalytics.Windows\UniversalAdobeAnalytics.Windows.csproj;x86
