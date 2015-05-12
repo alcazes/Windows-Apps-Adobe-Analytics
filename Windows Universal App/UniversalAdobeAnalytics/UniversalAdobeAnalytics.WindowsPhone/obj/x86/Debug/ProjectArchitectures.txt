@@ -1,0 +1,1 @@
+c:\users\acazes\documents\visual studio 2013\Projects\UniversalAdobeAnalytics\UniversalAdobeAnalytics\UniversalAdobeAnalytics.WindowsPhone\UniversalAdobeAnalytics.WindowsPhone.csproj;x86
