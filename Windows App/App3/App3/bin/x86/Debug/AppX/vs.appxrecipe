@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DMAEDI</Machine>
+    <WindowsUser>acazes</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>19123c96-40ff-4451-adcc-97efa0af5128</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\acazes\Documents\Visual Studio 2013\Projects\App3\App3\obj\x86\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>3D2F5004213A2E480762A76EAACE10EC6A98E580E1085D83A2C61D084C67A3A6</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>19123c96-40ff-4451-adcc-97efa0af5128_1.0.0.0_x86__vabw825t5nfnr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>19123c96-40ff-4451-adcc-97efa0af5128_vabw825t5nfnr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>19123c96-40ff-4451-adcc-97efa0af5128</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=acazes</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\acazes\Documents\Visual Studio 2013\Projects\App3\App3\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-12T10:10:03.222</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\acazes\Documents\Visual Studio 2013\Projects\App3\App3\bin\x86\Debug\App3.exe">
+      <PackagePath>App3.exe</PackagePath>
+      <Modified>2015-05-12T10:10:02.031</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ADBMobile\4.0\References\CommonConfiguration\Neutral\ADBMobile.winmd">
+      <PackagePath>ADBMobile.winmd</PackagePath>
+      <Modified>2015-04-30T10:42:41.782</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\ADBMobile\4.0\Redist\Debug\x86\ADBMobile.dll">
+      <PackagePath>ADBMobile.dll</PackagePath>
+      <Modified>2015-04-30T10:42:41.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\acazes\Documents\Visual Studio 2013\Projects\App3\App3\ADBMobileConfig.json">
+      <PackagePath>ADBMobileConfig.json</PackagePath>
+      <Modified>2015-05-11T14:46:29.537</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\acazes\Documents\Visual Studio 2013\Projects\App3\App3\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\acazes\Documents\Visual Studio 2013\Projects\App3\App3\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\acazes\Documents\Visual Studio 2013\Projects\App3\App3\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\acazes\Documents\Visual Studio 2013\Projects\App3\App3\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\acazes\Documents\Visual Studio 2013\Projects\App3\App3\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-05-11T15:25:40.122</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\acazes\Documents\Visual Studio 2013\Projects\App3\App3\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-05-11T15:25:40.122</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\acazes\Documents\Visual Studio 2013\Projects\App3\App3\bin\x86\Debug\App3.xr.xml">
+      <PackagePath>App3.xr.xml</PackagePath>
+      <Modified>2015-05-11T14:49:24.396</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\acazes\Documents\Visual Studio 2013\Projects\App3\App3\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-05-12T10:10:02.201</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

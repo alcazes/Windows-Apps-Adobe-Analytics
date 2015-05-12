@@ -1,0 +1,1 @@
+C:\Users\acazes\Documents\Visual Studio 2013\Projects\TestAnalyticsOnlyPhone\TestAnalyticsOnlyPhone\TestAnalyticsOnlyPhone.csproj;x86
