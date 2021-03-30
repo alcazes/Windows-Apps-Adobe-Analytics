@@ -7,36 +7,36 @@ You can find the official documentation [here](https://marketing.adobe.com/resou
 
 All up to date Adobe Analytics mobile SDKs can be found [here](https://github.com/Adobe-Marketing-Cloud/mobile-services/releases)
 
-#Requirements
+# Requirements
 
-##Create an app in Adobe Mobile services
+## Create an app in Adobe Mobile services
 
 You need to create an app in Adobe Mobile Services : https://mobilemarketing.adobe.com/ . This will allow you to download the
 latest mobile SDKs 4.x and the correct config file
 
-###Replace the config file
+### Replace the config file
 You need to replace the ADBMobileConfig.json by the one downloaded from Adobe Mobile services:
 
 0. Right-click you your project and select Add > Existing Item. 
 0. Browse to ADBMobileConfig.json and click Add. 
 
-###Change Build action for config file
+### Change Build action for config file
 Once you replace the config file by the one download from Adobe Mobile services, make sure to do the following:
 
 0.Right-click ADBMobileConfig.json in your solution and select Properties. 
 0.Change Build Action to Content. 
 
-##Download an install the Windows Visual Studio for Marketing Cloud Solutions 4.x SDK
+## Download an install the Windows Visual Studio for Marketing Cloud Solutions 4.x SDK
 
-###Install from GitHub
+### Install from GitHub
 
 Follow the steps provided in this [documentation](https://marketing.adobe.com/resources/help/en_US/mobile/winu/win_vse_4x.html)
 
-##Change the debugger type
+## Change the debugger type
 
 You need to change the debugger type to Native only or Mixed
 
-#Code
+# Code
 
 For each project the following code was added to use Adobe analytics tracking in the file App.xaml.cs
 
